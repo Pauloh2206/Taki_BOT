@@ -1,0 +1,12 @@
+
+ENTRA NO DIRETÓRIO DO BOT
+
+cd storage/downloads/Elaina-Sun-PT
+VAI DEPENDER DE ONDE ESTÁ A PASTA DO BOT ⬆️
+
+EXECUTA O COMANDO ABAIXO ⬇️ E AGUARDE...
+
+bash install.sh
+
+Mr.Sun :)
+@sun_mod_lit
