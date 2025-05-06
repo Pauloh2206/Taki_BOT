@@ -9,4 +9,4 @@ EXECUTA O COMANDO ABAIXO ⬇️ E AGUARDE...
 bash install.sh
 
 Mr.Sun :)
-@sun_mod_lit
+@eu_paulo_ti
