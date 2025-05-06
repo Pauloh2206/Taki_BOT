@@ -1,0 +1,65 @@
+{
+  "5516981532586@s.whatsapp.net": {
+    "anticall": false,
+    "antispam": false,
+    "auto": "unavailable",
+    "autobio": false,
+    "autoblockcmd": false,
+    "autojoin": false,
+    "autolevel": false,
+    "autoread": false,
+    "autoreport": true,
+    "autorespon": false,
+    "autosticker": false,
+    "autovn": false,
+    "botName": "MrSun-Bot",
+    "mode": "public",
+    "ownerName": "Mr.Sun",
+    "ownerNumber": "5516981532586",
+    "replytype": "mess1",
+    "setmenu": "image",
+    "setprefix": "yes"
+  },
+  "553891213502@s.whatsapp.net": {
+    "anticall": false,
+    "antispam": false,
+    "auto": "available",
+    "autobio": false,
+    "autoblockcmd": false,
+    "autojoin": false,
+    "autolevel": false,
+    "autoread": true,
+    "autoreport": true,
+    "autorespon": false,
+    "autosticker": false,
+    "autovn": false,
+    "botName": "MrSun-Bot",
+    "mode": "public",
+    "ownerName": "Mr.Sun",
+    "ownerNumber": "5516981532586",
+    "replytype": "mess1",
+    "setmenu": "image",
+    "setprefix": "yes"
+  },
+  "botName": "MrSun-Bot",
+  "geminiApiKey": "SUA_CHAVE_API_GEMINI_AQUI",
+  "limitAwal": 30,
+  "linkGroup": "https://chat.whatsapp.com/DPqRNvQmZGy5alviTF7A6o",
+  "logonya": {
+    "isLogo": false,
+    "url": "https://raw.githubusercontent.com/Aztecs444/media/Zeck/image/gura.jpg"
+  },
+  "openAiKey": "SUA_CHAVE_API_OPENAI_AQUI",
+  "ownerName": "Mr.Sun",
+  "ownerNumber": "5516981532586",
+  "removebgKey": "SUA_CHAVE_REMOVEBG_AQUI",
+  "thumbnailDok": {
+    "url": "https://telegra.ph/file/69c4bd7f4c8e0e629adad.jpg"
+  },
+  "thumbnailVid": {
+    "url": "https://raw.githubusercontent.com/Aztecs444/media/Zeck/video/video.mp4"
+  },
+  "vipSewa": [
+    "120363138759701751@g.us"
+  ]
+}
